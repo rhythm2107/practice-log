@@ -1,0 +1,25 @@
+body {
+    background-color: #a7dbe3;
+    color:rgb(255, 255, 255);
+    font-size: 21px;
+}
+
+h1 {
+    font-size: 70px;
+    color: #3747b3
+}
+
+p {
+    color: #2f4c5c;
+}
+
+/* This is the box model */
+
+.box {
+    background: pink;
+    width: 300px;
+    
+    margin: 100px;
+    border: 15px solid green;
+    padding: 100px;
+}
